@@ -1,0 +1,170 @@
+
+
+.wrap{
+    width: 1200px;
+    height: 1200px;
+
+    margin:0 auto;
+   
+    
+
+}
+.header{
+    background-image: url(img/photo-1552393700-42696fb89bfa.png);
+    background-position:-2px -18px;
+    width: 1200px;
+    height: 580px;
+    background-size: 1220px ;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    color: white;
+
+}
+.XXXD{
+    font: italic normal bold 18px Roboto;
+}
+.main{
+    width: 240px;
+    padding-top: 48px;
+}
+.header h1{
+    font:italic normal 900 60px Roboto;
+}
+
+.header ul{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.header ul li{
+    display: inline-block;
+}
+.header ul li img{
+    width:48px;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1200px;
+
+}
+h2{
+    font-size: 42px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+    text-align: center;
+    margin: 40px;
+}
+.aboutIN{
+    text-align: center;
+}
+.aboutIN img{
+    width: 200px;
+}
+
+.chen p{
+    margin: 10px;
+    width: 220px;
+    font-size: 12px;
+}
+.line{
+    width: 240px;
+    height: 0px;
+    border: 1px solid gray;
+    margin-top: 20px;
+}
+.Rcircle{
+    width: 9px;
+height: 9px;
+display: inline-block;
+border-radius:999em;
+background: #891818 0% 0% no-repeat padding-box;
+margin-right: 10px;
+}
+.FGG{
+    margin-top: 20px;
+}
+.brand{
+    display: flex;
+    justify-content: center;
+
+    width: 1200px;
+    height: 720px;
+    background-color: black;
+    margin-top: 50px;
+}
+.brandH2{
+    color: white;
+}
+.brand p{
+    color: white;
+    text-align: center;
+    width: auto;
+}
+.justkeep{
+    margin-bottom: 20px;
+}
+
+.photo1{
+    width: 400px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    /*border: 1px solid green;*/
+    margin-left: 100px;
+}
+.photo2 img{
+    width: 300px;
+    margin-top: 10px;
+
+
+}
+.other{
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    margin-top: -15px;
+}
+.poster1{
+    margin-top: 10px;
+    margin-left: 90px;
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    
+}
+.poster2017 img{
+    height: 400px;
+}
+.poster2017 p{
+    text-align: center;
+}
+.poster2018 img{
+    width: 460px;
+}
+.poster2018 p{
+    text-align: center;
+}
+.poster2019 img{
+    width: 300px;
+}
+.poster2019 p{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    width: 1200px;
+    height: 180px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+footer p{
+    position: relative;
+    top: -30px;
+}
